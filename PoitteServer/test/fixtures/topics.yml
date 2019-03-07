@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  User_id: 1
+  belong_num: MyString
+
+two:
+  name: MyString
+  User_id: 1
+  belong_num: MyString
